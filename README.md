@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on [Apklis-Admin-Api](https://github.com/karelantonio/Apklis-Admin-Api)
 
-- 👨‍💻 All of my projects are available at [https://dto2.cubava.cu/portfolio](https://dto2.cubava.cu/portfolio)
-
 - 📝 I regularly write articles on [https://dto2.cubava.cu](https://dto2.cubava.cu)
 
 - 💬 Ask me about **PHP, Java, Kotlin, C#**
