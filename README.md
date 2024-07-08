@@ -3,19 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cz9dev&theme=darkhub" alt="cz9dev" /></a> </p>
 
-- 🔭 I’m currently working on [learnApklis](https://github.com/cz9dev/learnApklis)
-
-- 🌱 I’m currently learning **Codeigniter**
-
-- 👯 I’m looking to collaborate on [Apklis-Admin-Api](https://github.com/karelantonio/Apklis-Admin-Api)
-
-- 📝 I regularly write articles on [https://dto2.cubava.cu](https://dto2.cubava.cu)
+- 📝 I regularly write articles on [https://cz9dev.github.io](https://cz9dev.github.io)
 
 - 💬 Ask me about **PHP, Java, Kotlin, C#**
 
 - 📫 How to reach me **cz9dev@gmail.com**
 
-- 📄 Know about my experiences [https://dto2.cubava.cu/experiences](https://dto2.cubava.cu/experiences)
+- 📄 Know about my experiences [https://cz9dev.github.io/aboutme/](https://cz9dev.github.io/aboutme/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
