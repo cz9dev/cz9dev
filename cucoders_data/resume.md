@@ -3,31 +3,43 @@ Mi nombre es Carlos, trabaje como comercial en Aguas Guardalavaca por 5 año, en
 
 ## 🎓 Educación
 
-### Enceñanza Media, Ciudad
+### Enceñanza Media, Holguín Cuba
 - Técnico Medio en Informática, 2005
 - Instituto Politecnico de Informática, Holguín
 
-### Universidad, Ciudad
+### Universidad, Holguín Cuba
 - Ingeniero en Informática, 2012
 - Universidad de Holguín
 
 ## 💼 Experiencia laboral
 
-### Empresa, Ciudad
-- Puesto, años de experiencia
-- Descripción detallada de responsabilidades y logros
+### Aguas Guardalavaca, Holguín Cuba
+- Esp. Comercial, 5 años
 
-### Empresa, Ciudad
-- Puesto, años de experiencia
-- Descripción detallada de responsabilidades y logros
+### Empresa Inmubiliaria, Holguín Cuba
+- Administrador de Sistemas, 7 años
+- Administración de sistemas en Linux y Windows. trabajo con sistema Operativo Proxmox en los Serivores, administracion de sistemas como: pfSense, OpnSense, Postfix, Mailpiler, Nextcloud, en CMS como Drupal, Wordpress.
+
+### Freelance
+Desarrollo aplicaciones web, móbiles y de escritorio, programadas fundamentalmente en los lenguajes java, kotlin, c#, php. Manejo de mases de datos en Postgres, Mysql, MariaDB, SQlite, SQL Server
 
 ## 💻 Habilidades
 
-- 💻 Lista de habilidades, herramientas o tecnologías en las que se es competente
-- Incluye lenguajes de programación, software, marcos de trabajo, etc.
+- Drupal
+- Wordpress
+- SQL Server
+- SQlite
+- Postgress
+- MariaDB
+- MySQL
+- Kotlin
+- Java
+- PHP
+- C#
+- Javascript
+- CSS
 
 ## 🌎 Idiomas
 
-- Nivel de habilidad en idioma (e.g. Bilingue, Nativo, Avanzado, Intermedio, Básico)
-
-## 🔗 Referencias disponibles a petición
+- Español - Nativo
+- Ingles - Intemedio
